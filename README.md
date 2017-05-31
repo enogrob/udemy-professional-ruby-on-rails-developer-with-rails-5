@@ -18,55 +18,55 @@ Ruby on Rails - Imagine, design, build web apps and bring your dreams to life.
 Section: 1
 0 / 23
 Getting started with Ruby on Rails
-[ ] 1. Introduction 2:25
-[ ] 2. Preview of the final project app built in the course 9:03
-[ ] 3. Structure of the course and how to get live help 5:48
-[ ] 5. What are web applications? 10:50
-[ ] 4. Latest updates - Text lecture which will discuss latest updates 0:00
-[ ] 6. Learn Ruby by trying Ruby 2:31
-[ ] 7. Set up your development environment 4:08
-[ ] 8. Familiarity with IDE and command line 16:23
-[ ] 9. Familiarity with IDE and command line - Text Lecture 0:00
-[ ] 10. Install Ruby on Rails 5 7:48
-[ ] 11. Install Ruby on Rails 5 - Text lecture 0:00
-[ ] 12. Components of a Rails app 15:57
-[ ] 13. A closer look at components 4:57
-[ ] 14. Start your first Rails app and build homepage! 19:56
-[ ] 15. Start your first Rails app - Text lecture 0:00
-[ ] 16. About page and homework! 9:54
-[ ] 17. About page and homework - Text lecture 0:00
-[ ] 18. Create a table and what is CRUD? 11:24
-[ ] 19. CRUD kickoff - Text lecture 0:00
-[ ] 20. Rails console 19:04
-[ ] 21. Rails console - Text lecture 0:00
-[ ] 22. Wrap up section 1 - Assignments 7:22
-[ ] 23. Wrap up section 1 - Text lecture 0:00
+[x] 1. Introduction 2:25
+[x] 2. Preview of the final project app built in the course 9:03
+[x] 3. Structure of the course and how to get live help 5:48
+[x] 5. What are web applications? 10:50
+[x] 4. Latest updates - Text lecture which will discuss latest updates 0:00
+[x] 6. Learn Ruby by trying Ruby 2:31
+[x] 7. Set up your development environment 4:08
+[x] 8. Familiarity with IDE and command line 16:23
+[x] 9. Familiarity with IDE and command line - Text Lecture 0:00
+[x] 10. Install Ruby on Rails 5 7:48
+[x] 11. Install Ruby on Rails 5 - Text lecture 0:00
+[x] 12. Components of a Rails app 15:57
+[x] 13. A closer look at components 4:57
+[x] 14. Start your first Rails app and build homepage! 19:56
+[x] 15. Start your first Rails app - Text lecture 0:00
+[x] 16. About page and homework! 9:54
+[x] 17. About page and homework - Text lecture 0:00
+[x] 18. Create a table and what is CRUD? 11:24
+[x] 19. CRUD kickoff - Text lecture 0:00
+[x] 20. Rails console 19:04
+[x] 21. Rails console - Text lecture 0:00
+[x] 22. Wrap up section 1 - Assignments 7:22
+[x] 23. Wrap up section 1 - Text lecture 0:00
 
 Section: 2
 0 / 16
 The Front-End Interface
-[ ] 24. A look at <% vs <%= 1:29
-[ ] 25. Start a new todo from the UI 13:05
-[ ] 26. Start a new todo from UI - Text lecture 0:00
-[ ] 27. Complete creating todos from UI 18:20
-[ ] 28. Complete create todos - Text lecture 0:00
-[ ] 29. Add flash and show 12:51
-[ ] 30. Add flash and show - Text lecture 0:00
-[ ] 31. Version control with Git and Github 15:10
-[ ] 32. Version control with Git and Github - Text lecture 0:00
-[ ] 33. Edit action 9:04
-[ ] 34. Edit action - Text lecture 0:00
-[ ] 35. A closer look at iteration with .each 1:32
-[ ] 36. Index view and links 11:41
-[ ] 37. Index view and links - Text lecture 0:00
-[ ] 38. Destroy, refactor and homework 19:37
-[ ] 39. Destroy, refactor and homework - Text lecture 0:00
+[x] 24. A look at <% vs <%= 1:29
+[x] 25. Start a new todo from the UI 13:05
+[x] 26. Start a new todo from UI - Text lecture 0:00
+[x] 27. Complete creating todos from UI 18:20
+[x] 28. Complete create todos - Text lecture 0:00
+[x] 29. Add flash and show 12:51
+[x] 30. Add flash and show - Text lecture 0:00
+[x] 31. Version control with Git and Github 15:10
+[x] 32. Version control with Git and Github - Text lecture 0:00
+[x] 33. Edit action 9:04
+[x] 34. Edit action - Text lecture 0:00
+[x] 35. A closer look at iteration with .each 1:32
+[x] 36. Index view and links 11:41
+[x] 37. Index view and links - Text lecture 0:00
+[x] 38. Destroy, refactor and homework 19:37
+[x] 39. Destroy, refactor and homework - Text lecture 0:00
 
 Section: 3
 0 / 12
 Front-end styling and production deploy
-[ ] 40. Production deploy and start main project app 14:41
-[ ] 41. Production deploy and start main project app - Text lecture 0:00
+[x] 40. Production deploy and start main project app 14:41
+[x] 41. Production deploy and start main project app - Text lecture 0:00
 [ ] 42. Install Bootstrap and start homepage 19:48
 [ ] 43. Install Bootstrap and start homepage - Text lecture 0:00
 [ ] 44. Part 2 - Install Bootstrap and build homepage 2:59
