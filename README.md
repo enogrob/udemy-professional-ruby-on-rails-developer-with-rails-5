@@ -67,10 +67,10 @@ Section: 3
 Front-end styling and production deploy
 [x] 40. Production deploy and start main project app 14:41
 [x] 41. Production deploy and start main project app - Text lecture 0:00
-[ ] 42. Install Bootstrap and start homepage 19:48
-[ ] 43. Install Bootstrap and start homepage - Text lecture 0:00
-[ ] 44. Part 2 - Install Bootstrap and build homepage 2:59
-[ ] 45. Part 2 - Install Bootstrap and build homepage - Text lecture 0:00
+[x] 42. Install Bootstrap and start homepage 19:48
+[x] 43. Install Bootstrap and start homepage - Text lecture 0:00
+[x] 44. Part 2 - Install Bootstrap and build homepage 2:59
+[x] 45. Part 2 - Install Bootstrap and build homepage - Text lecture 0:00
 [ ] 46. Learn/Practice HTML and CSS 2:38
 [ ] 47. Learn/Practice HTML and CSS - Text lecture 0:00
 [ ] 48. Build homepage and add styling 16:35
