@@ -71,18 +71,18 @@ Front-end styling and production deploy
 [x] 43. Install Bootstrap and start homepage - Text lecture 0:00
 [x] 44. Part 2 - Install Bootstrap and build homepage 2:59
 [x] 45. Part 2 - Install Bootstrap and build homepage - Text lecture 0:00
-[ ] 46. Learn/Practice HTML and CSS 2:38
-[ ] 47. Learn/Practice HTML and CSS - Text lecture 0:00
-[ ] 48. Build homepage and add styling 16:35
-[ ] 49. Build homepage and add styling - Text directions and code 0:00
-[ ] 50. Complete homepage 14:02
-[ ] 51. Complete homepage - Text directions and code 0:00
+[x] 46. Learn/Practice HTML and CSS 2:38
+[x] 47. Learn/Practice HTML and CSS - Text lecture 0:00
+[x] 48. Build homepage and add styling 16:35
+[x] 49. Build homepage and add styling - Text directions and code 0:00
+[x] 50. Complete homepage 14:02
+[x] 51. Complete homepage - Text directions and code 0:00
 
 Section: 4
 0 / 46
 Associations and full on Rails MVC
-[ ] 52. Associations intro and view updates 10:42
-[ ] 53. Associations intro and view updates - Text lecture 0:00
+[x] 52. Associations intro and view updates 10:42
+[x] 53. Associations intro and view updates - Text lecture 0:00
 [ ] 54. One to many association and foreign key 19:34
 [ ] 55. Complete discussion on one to many associations 7:36
 [ ] 56. Create tables and models 10:37
