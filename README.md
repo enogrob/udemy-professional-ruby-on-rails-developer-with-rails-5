@@ -83,8 +83,8 @@ Section: 4
 Associations and full on Rails MVC
 [x] 52. Associations intro and view updates 10:42
 [x] 53. Associations intro and view updates - Text lecture 0:00
-[ ] 54. One to many association and foreign key 19:34
-[ ] 55. Complete discussion on one to many associations 7:36
+[x] 54. One to many association and foreign key 19:34
+[x] 55. Complete discussion on one to many associations 7:36
 [ ] 56. Create tables and models 10:37
 [ ] 57. Create tables and models - Text lecture 0:00
 [ ] 58. Test Driven Development - validations for model 19:21
