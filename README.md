@@ -85,12 +85,12 @@ Associations and full on Rails MVC
 [x] 53. Associations intro and view updates - Text lecture 0:00
 [x] 54. One to many association and foreign key 19:34
 [x] 55. Complete discussion on one to many associations 7:36
-[ ] 56. Create tables and models 10:37
-[ ] 57. Create tables and models - Text lecture 0:00
-[ ] 58. Test Driven Development - validations for model 19:21
-[ ] 59. TDD - validations for model - Text lecture 0:00
-[ ] 60. TDD - Build chefs 19:00
-[ ] 61. TDD - Build chefs - Text lecture 0:00
+[x] 56. Create tables and models 10:37
+[x] 57. Create tables and models - Text lecture 0:00
+[x] 58. Test Driven Development - validations for model 19:21
+[x] 59. TDD - validations for model - Text lecture 0:00
+[x] 60. TDD - Build chefs 19:00
+[x] 61. TDD - Build chefs - Text lecture 0:00
 [ ] 62. Complete chef model 3:27
 [ ] 63. Complete chef model - Text lecture 0:00
 [ ] 64. One-to-many association between chefs and recipes 16:46
