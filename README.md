@@ -93,8 +93,8 @@ Associations and full on Rails MVC
 [x] 61. TDD - Build chefs - Text lecture 0:00
 [x] 62. Complete chef model 3:27
 [x] 63. Complete chef model - Text lecture 0:00
-[ ] 64. One-to-many association between chefs and recipes 16:46
-[ ] 65. One-to-many between chefs and recipes - Text lecture 0:00
+[x] 64. One-to-many association between chefs and recipes 16:46
+[x] 65. One-to-many between chefs and recipes - Text lecture 0:00
 [ ] 66. Restful routes 16:40
 [ ] 67. TDD to build index action 11:43
 [ ] 68. TDD to build index action - Text lecture 0:00
